@@ -63,10 +63,9 @@ sections:
         media_width: sixty
       - title: EPNAK
         subtitle: Référent Digital
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          Chargé de la stratégie marketing digitale du Pôle Innovation Digital
+          Grand Ouest.
         actions:
           - label: See Past Work
             url: /faq
