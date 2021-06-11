@@ -67,7 +67,7 @@ sections:
           Chargé de la stratégie marketing digitale du Pôle Innovation Digital
           Grand Ouest.
         actions:
-          - label: See Past Work
+          - label: Voir plus
             url: /faq
             style: primary
             has_icon: true
