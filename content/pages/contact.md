@@ -11,22 +11,33 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
-      ## Pricing
+    content: >+
+      ## Prix
 
-      After a short onboarding call I will be able to provide you with ballpark
-      pricing, followed by a detailed proposal once we discuss the details. 
 
-      ### Proposal
 
-      Your proposal will include several choices in terms of pricing structure
-      and deliverable timeline.
+      Après un court appel d'intégration, je serai en mesure de vous fournir un
+      prix approximatif, suivi d'une proposition détaillée une fois que nous
+      aurons discuté des détails.
 
-      ### Terms
 
-      If at any point you'd like to cancel our project, you are required to
-      provide a 30-day written notice, after which I will transfer all of your
-      assets to you so you can use them anytime.
+      ### &#xA;Proposition
+
+
+
+      Votre proposition comprendra plusieurs choix en termes de structure de
+      prix et de calendrier des livrables.
+
+
+      ### &#xA;Termes
+
+
+
+      Si, à un moment quelconque, vous souhaitez annuler notre projet, vous
+      devez fournir un préavis écrit de 30 jours, après quoi je vous
+      transférerai tous vos actifs afin que vous puissiez les utiliser à tout
+      moment.
+
     content_align: left
     form_position: left
     form_width: fifty
