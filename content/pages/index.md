@@ -131,13 +131,12 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - type: form_section
-    content: >+
-      ## Parlons
+    content: >
+      ## A propos
 
 
       Si vous souhaitez plus d'informations sur mes services, contactez-moi via
       le formulaire ci-dessous.
-
     content_align: left
     form_position: right
     form_width: fifty
