@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: 'Bonjour, je m''appelle Valentin. Je suis Expert Digital'
-    subtitle: Je
     actions:
       - label: Contact Me
         url: /contact
