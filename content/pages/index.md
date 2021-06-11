@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: 'Bonjour, je m''appelle Valentin. Je suis Expert Digital'
     actions:
-      - label: Contact Me
+      - label: Contactez - moi
         url: /contact
         style: primary
     image: /images/139938189_2972058739692698_3363955249734265039_n.jpg
