@@ -21,7 +21,7 @@ export default class SectionBackground extends React.Component {
                     backgroundSize: backgroundImageSize,
                     backgroundPosition: backgroundImagePosition,
                     backgroundRepeat: backgroundImageRepeat
-                    background-color: rgba(255, 255, 128, .5);
+                    
                 }}
             />
         );
