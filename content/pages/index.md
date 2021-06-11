@@ -81,7 +81,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Testimonials
+    title: Témoignages
     subtitle: Ce que mes collègues disent de moi
     grid_items:
       - content: >-
