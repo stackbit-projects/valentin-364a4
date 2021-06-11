@@ -62,7 +62,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: EPNAK
-        subtitle: 'Your products and services, at scale.'
+        subtitle: Référent Digital
         content: >-
           I will dive into the ins and outs of your product or service and make
           sure the right information is communicated throughout your
