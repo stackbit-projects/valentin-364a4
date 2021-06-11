@@ -44,10 +44,12 @@ sections:
         media_width: sixty
       - title: Madické Camara
         subtitle: Community Manager
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >+
+          Gestion des réseaux sociaux de Mr Kamara afin de développer sa
+          communauté. Il préparait un combat pour les championnats du monde de
+          kickboxing le 27 août 2018, mon rôle était de couvrir l’événement et
+          de faire suivre sa préparation physique sur les réseaux sociaux.
+
         actions:
           - label: Learn More
             url: /about
