@@ -51,7 +51,7 @@ sections:
           de faire suivre sa préparation physique sur les réseaux sociaux.
 
         actions:
-          - label: Learn More
+          - label: Lire plus
             url: /about
             style: secondary
             has_icon: true
