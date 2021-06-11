@@ -149,7 +149,7 @@ sections:
       - input_type: text
         name: name
         label: Nom
-        default_value: mon ertoV
+        default_value: 'mon '
         is_required: true
       - input_type: email
         name: email
