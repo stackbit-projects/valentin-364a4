@@ -23,7 +23,7 @@ sections:
       Je travaille à l'EPNAK en tant que chargé de projets images et
       e-réputation.
   - type: features_section
-    title: My services
+    title: Mon parcours
     subtitle: What I do
     features:
       - title: Content Creation
