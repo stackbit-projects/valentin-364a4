@@ -28,10 +28,9 @@ sections:
     features:
       - title: La Filature
         subtitle: Chargé de communication
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          Chargé de la communication interne et externe. La Filature est un
+          espace de co-working situé à Louviers. 
         actions:
           - label: See Writing Samples
             url: /faq
