@@ -32,7 +32,7 @@ sections:
           Chargé de la communication interne et externe. La Filature est un
           espace de co-working situé à Louviers. 
         actions:
-          - label: See Writing Samples
+          - label: Voir plus
             url: /faq
             style: primary
             has_icon: true
