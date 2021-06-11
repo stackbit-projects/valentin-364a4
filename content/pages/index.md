@@ -26,7 +26,7 @@ sections:
     title: Mon parcours
     subtitle: Ce que j'ai fais
     features:
-      - title: Content Creation
+      - title: La Filature
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
