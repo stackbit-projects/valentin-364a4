@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Bonjour, je suis Valentin. Je suis Expert Digital'
+    title: 'Bonjour, je m''appelle Valentin. Je suis Expert Digital'
     subtitle: Je
     actions:
       - label: Contact Me
