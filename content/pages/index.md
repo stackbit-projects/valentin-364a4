@@ -84,9 +84,9 @@ sections:
     title: Témoignages
     subtitle: Ce que mes collègues disent de moi
     grid_items:
-      - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
-          for our apps in all levels of user touchpoints.
+      - content: >
+          Valentin est un énorme bg, j'ai du mal à me concentrer en réunion
+          quand il est là car il est trop sexy
 
 
           **Hanson Deck,** *App Developer, Studio*
