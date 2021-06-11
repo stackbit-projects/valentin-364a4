@@ -27,7 +27,7 @@ sections:
     subtitle: Ce que j'ai fais
     features:
       - title: La Filature
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: Chargé de communication
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
