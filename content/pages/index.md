@@ -24,7 +24,7 @@ sections:
       e-réputation.
   - type: features_section
     title: Mon parcours
-    subtitle: What I do
+    subtitle: Ce que j'ai fais
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
