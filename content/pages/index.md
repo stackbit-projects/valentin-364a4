@@ -45,7 +45,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-      - title: EPNAK
+      - title: 'EPNAK, Alternance Licence Chef de projet digital'
         subtitle: Référent Digital
         content: >+
           Chargé de la stratégie marketing digitale du Pôle Innovation Digital
