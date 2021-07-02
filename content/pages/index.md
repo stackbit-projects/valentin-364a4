@@ -103,7 +103,7 @@ sections:
 
           Depuis peu, j'ai appris en formation à créer des sites statiques avec
           Hugo.
-        image: images/hanson-deck.png
+        image: /images/hugo.jfif
         image_position: left
         image_width: twenty-five
       - content: >-
