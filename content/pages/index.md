@@ -46,7 +46,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: EPNAK
-        subtitle: Community Manager
+        subtitle: Référent Digital
         content: >+
           Gestion des réseaux sociaux de Mr Kamara afin de développer sa
           communauté. Il préparait un combat pour les championnats du monde de
