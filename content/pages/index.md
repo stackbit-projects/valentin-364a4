@@ -47,10 +47,13 @@ sections:
         media_width: sixty
       - title: 'EPNAK, Alternance Licence Chef de Projet Digital'
         subtitle: Référent Digital
-        content: >+
-          Chargé de la stratégie marketing digitale du Pôle Innovation Digital
-          Grand Ouest.
+        content: >
+          J'ai intégré l'EPNAK en octobre 2019 en tant que référent digital avec
+          un gros focus sur la communication (vidéo, plaquettes).
 
+
+          Chargé de la stratégie marketing digital du Pôle Innovation Digital
+          Grand Ouest.
         actions:
           - label: Lire plus
             url: /about
