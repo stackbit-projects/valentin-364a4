@@ -48,10 +48,8 @@ sections:
       - title: EPNAK
         subtitle: Référent Digital
         content: >+
-          Gestion des réseaux sociaux de Mr Kamara afin de développer sa
-          communauté. Il préparait un combat pour les championnats du monde de
-          kickboxing le 27 août 2018, mon rôle était de couvrir l’événement et
-          de faire suivre sa préparation physique sur les réseaux sociaux.
+          Chargé de la stratégie marketing digitale du Pôle Innovation Digital
+          Grand Ouest.
 
         actions:
           - label: Lire plus
