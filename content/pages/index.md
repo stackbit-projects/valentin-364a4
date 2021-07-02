@@ -185,7 +185,9 @@ sections:
     background_image_opacity: 8
 seo:
   title: CV Valentin Favril
-  description: The preview of the Personal theme
+  description: >-
+    Dans mon CV, je vous présente mon parcours ainsi que mes compétences que
+    j'ai pu acquérir au fur et à mesure des mes expériences. 
   extra:
     - name: 'og:type'
       value: website
