@@ -46,7 +46,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: 'EPNAK, Alternance Licence Chef de projet digital'
-        subtitle: 01/10/2019 - 31/09/2020 Référent Digital
+        subtitle: "01/10/2019 - 31/09/2020\_ \_ \_ \_ \_ \_ \_ \_ Référent Digital"
         content: >+
           Chargé de la stratégie marketing digitale du Pôle Innovation Digital
           Grand Ouest.
