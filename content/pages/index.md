@@ -27,7 +27,7 @@ sections:
     subtitle: Ce que j'ai fais
     features:
       - title: La Filature
-        subtitle: Chargé de communication
+        subtitle: Community Manager
         content: >+
           Gestion des réseaux sociaux de Mr Kamara afin de développer sa
           communauté. Il préparait un combat pour les championnats du monde de
