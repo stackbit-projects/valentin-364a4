@@ -62,7 +62,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
-      - title: EPNAK
+      - title: 'EPNAK, alternance Expert Digital'
         subtitle: Référent Digital
         content: >
           Chargé de la stratégie marketing digitale du Pôle Innovation Digital
