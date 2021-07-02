@@ -91,7 +91,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Témoignages
-    subtitle: Ce que mes collègues disent de moi
+    subtitle: Ce qui me caractérise
     grid_items:
       - content: >
           Valentin est un énorme bg, j'ai du mal à me concentrer en réunion
