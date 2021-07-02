@@ -45,7 +45,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-      - title: Madické Camara
+      - title: EPNAK
         subtitle: Community Manager
         content: >+
           Gestion des réseaux sociaux de Mr Kamara afin de développer sa
