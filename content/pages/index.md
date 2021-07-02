@@ -24,7 +24,7 @@ sections:
       e-réputation.
   - type: features_section
     title: Mon parcours
-    subtitle: Ce que j'ai fais
+    subtitle: 'Ici, je vous présente'
     features:
       - title: 'Madicke Kamara, Champion d''Europe de Boxe Thaï'
         subtitle: Community Manager
