@@ -63,7 +63,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: 'EPNAK, alternance Expert Digital'
-        subtitle: Référent Digital
+        subtitle: Chargé de Projets images et e-réputation
         content: >
           Chargé de la stratégie marketing digitale du Pôle Innovation Digital
           Grand Ouest.
