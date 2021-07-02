@@ -28,9 +28,12 @@ sections:
     features:
       - title: La Filature
         subtitle: Chargé de communication
-        content: >
-          Chargé de la communication interne et externe. La Filature est un
-          espace de co-working situé à Louviers. 
+        content: >+
+          Gestion des réseaux sociaux de Mr Kamara afin de développer sa
+          communauté. Il préparait un combat pour les championnats du monde de
+          kickboxing le 27 août 2018, mon rôle était de couvrir l’événement et
+          de faire suivre sa préparation physique sur les réseaux sociaux.
+
         actions:
           - label: Voir plus
             url: /faq
