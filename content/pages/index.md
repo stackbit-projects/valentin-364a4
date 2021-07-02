@@ -90,7 +90,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Témoignages
+    title: Mes compétences
     subtitle: Ce qui me caractérise
     grid_items:
       - content: >
