@@ -94,11 +94,15 @@ sections:
     subtitle: Ce qui me caractérise
     grid_items:
       - content: >
-          Valentin est un énorme bg, j'ai du mal à me concentrer en réunion
-          quand il est là car il est trop sexy
+          # Création de site web statique et CMS
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          J'ai eu l'occasion de travailler et de créer différents sites web via
+          un CMS tel que Wordpress.
+
+
+          Depuis peu, j'ai appris en formation à créer des sites statiques avec
+          Hugo.
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
