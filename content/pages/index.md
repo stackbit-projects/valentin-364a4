@@ -94,7 +94,7 @@ sections:
     subtitle: Ce qui me caractérise
     grid_items:
       - content: >
-          # Création de site web statique et CMS
+          ### Création de site web statique et CMS
 
 
           J'ai eu l'occasion de travailler et de créer différents sites web via
