@@ -95,7 +95,7 @@ export default class GridItem extends React.Component {
                                         alt={imageAlt}
                                         className={classNames({
                                             'mx-auto': imageAlignX === 'center',
-                                            'ml-auto': imageAlignX === 'right'
+                                            'ml-auto': imageAlignX === 'center'
                                         })}
                                     />
                                 </div>
