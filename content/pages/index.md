@@ -26,7 +26,7 @@ sections:
     title: Mon parcours
     subtitle: Ce que j'ai fais
     features:
-      - title: La Filature
+      - title: 'Madicke Kamara, Champion d''Europe de Boxe Thaï'
         subtitle: Community Manager
         content: >+
           Gestion des réseaux sociaux de Mr Kamara afin de développer sa
