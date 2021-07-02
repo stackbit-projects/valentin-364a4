@@ -68,8 +68,13 @@ sections:
       - title: 'EPNAK, alternance Expert Digital'
         subtitle: Chargé de Projets images et e-réputation
         content: >
-          Chargé de la stratégie marketing digitale du Pôle Innovation Digital
-          Grand Ouest.
+          J'ai renouvelé mon contrat d'alternance à l'EPNAK en octobre 2020 afin
+          de réaliser un Master Expert Digital. 
+
+
+          A la suite de cela, mon poste a évolué pour être Chargé de Projets
+          Images et E-réputation visant à définir la stratégie marketing du Pôle
+          Innovation Digital Grand Ouest.
         actions:
           - label: Voir plus
             url: /faq
